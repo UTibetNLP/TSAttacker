@@ -4,7 +4,7 @@
 
 We divided our work in the paper below into two parts.
 
-***[Pay Attention to the Robustness of Chinese Minority Language Models! Syllable-level Textual Adversarial Attack on Tibetan Script](https://aclanthology.org/2023.trustnlp-1.4) (Cao et al., ACL 2023 Workshop - TrustNLP)***
+***[Pay Attention to the Robustness of Chinese Minority Language Models! Syllable-level Textual Adversarial Attack on Tibetan Script (Cao et al., ACL 2023 Workshop - TrustNLP)](https://aclanthology.org/2023.trustnlp-1.4)***
 
 One of them is the fine-tuning part which is open-sourced on [https://github.com/metaphors/TibetanPLMsFineTuning](https://github.com/metaphors/TibetanPLMsFineTuning).
 
